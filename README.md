@@ -1,6 +1,4 @@
-# Portafolio de Kintarō
 
-Este portafolio no es solo un sitio web: es una representación visual y técnica del espíritu curioso, adaptable y autodidacta de **Kintarō Ōe**, el protagonista de *Golden Boy*. Así como el personaje se enfrenta a distintos trabajos y siempre logra destacar, este proyecto refleja la evolución, versatilidad y pasión por aprender de un desarrollador Full-Stack moderno.
 
 
 <!-- ![Vista previa del Portafolio](./public/presentacion/desktop-full.png) -->
